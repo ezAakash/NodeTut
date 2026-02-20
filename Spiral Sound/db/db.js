@@ -10,5 +10,5 @@ const dbPath = path.join('database.db')
    filename: dbPath,
    driver: sqlite3.Database
  }) 
-
+ 
 } 
